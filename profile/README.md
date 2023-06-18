@@ -1,11 +1,11 @@
 ![](https://github.com/BusqueDevs/.github/blob/main/banner.png)
 
-## 🔎 BusqueDevs
-_**Busque os Melhores Programadores para o seu Negócio.**_
+## 🔥 ArcanProjects
+_**Faça seu sonho se tornar realidade com a Arcan!**_
 
 Oferecemos um catálogo com diversos programadores esperando por você, onde você poderá analisar todas as informações técnicas do usuário e julgar se ele se adequa a sua empresa. Assim selecionado as pessoas mais capacitadas para desenvolver os seus projetos e tarefas de sua empresa.
 
 ## 📌 Suporte
-- 🖥️ **Plataforma:** [busquedevs.com.br](https://busquedevs.com.br)
+- 🖥️ **Plataforma:** [arcanprojects.dev](https://arcanprojects.dev)
 
-###### Feito com 🤎 por [Tiago Ryan](https://www.linkedin.com/in/tiagoryan).
+###### Feito com 🤎 por [Matheus]([https://www.linkedin.com/in/](https://github.com/matheusfrdev)https://github.com/matheusfrdev).
