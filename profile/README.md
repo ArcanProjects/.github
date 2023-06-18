@@ -9,4 +9,4 @@ Com mais de 1 ano no mercado, oferecemos um catálogo com diversos programadores
 - 🖥️ **Plataforma:** [arcanprojects.dev](https://arcanprojects.dev)
 - ⚙ **Discord:** [discord.gg/arcanprojects](https://discord.gg/Bdtjh4en4K)
 
-###### Feito com 🤎 por [Matheus](https://twitter.com/naflyyyy).
+###### Feito com ❤ por [Matheus](https://twitter.com/naflyyyy).
