@@ -1,4 +1,4 @@
-![](https://github.com/BusqueDevs/.github/blob/main/banner.png)
+![](https://github.com/ArcanProjects/.github/blob/main/banner.png)
 
 ## 🔥 ArcanProjects
 _**Faça seu sonho se tornar realidade com a Arcan!**_
