@@ -9,4 +9,4 @@ Oferecemos um catálogo com diversos programadores esperando por você, onde voc
 - 🖥️ **Plataforma:** [arcanprojects.dev](https://arcanprojects.dev)
 - ⚙ **Discord:** [discord.gg/arcanprojects](https://discord.gg/Bdtjh4en4K)
 
-###### Feito com 🤎 por [Matheus](https://www.linkedin.com/in/](https://github.com/matheusfrdev)https://github.com/matheusfrdev).
+###### Feito com 🤎 por [Matheus](https://twitter.com/naflyyyy).
