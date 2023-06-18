@@ -7,6 +7,6 @@ Oferecemos um catálogo com diversos programadores esperando por você, onde voc
 
 ## 📌 Suporte
 - 🖥️ **Plataforma:** [arcanprojects.dev](https://arcanprojects.dev)
-- ⚙ **Contato:** [Discord](https://arcanprojects.dev)
+- ⚙ **Discord:** [ArcanProjects](https://arcanprojects.dev)
 
 ###### Feito com 🤎 por [Matheus](https://www.linkedin.com/in/](https://github.com/matheusfrdev)https://github.com/matheusfrdev).
