@@ -3,7 +3,7 @@
 ## 🔥 ArcanProjects
 _**Faça seu sonho se tornar realidade com a Arcan!**_
 
-Com mais de 1 ano no mercado, oferecemos um catálogo com diversos programadores esperando por você, onde você poderá analisar todas as informações técnicas do usuário e julgar se ele se adequa a sua empresa. Assim selecionado as pessoas mais capacitadas para desenvolver os seus projetos e tarefas de sua empresa. 👨‍💻
+Com mais de 1 ano no mercado, oferecemos um catálogo com diversos programadores esperando por você, onde você poderá analisar todas as informações técnicas do usuário e julgar se ele se adequa a sua empresa. Assim selecionado as pessoas mais capacitadas para desenvolver os seus projetos e tarefas de sua preferência. 👨‍💻
 
 ## 📌 Suporte
 - 🖥️ **Plataforma:** [arcanprojects.dev](https://arcanprojects.dev)
