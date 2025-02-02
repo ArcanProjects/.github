@@ -9,6 +9,6 @@ Com mais de 1 ano no mercado, oferecemos um catálogo com diversos programadores
 - 🖥️ **Plataforma:** [arcanprojects.com.br](arcanprojects.com.br)
 - ⚙ **Discord:** [discord.gg/arcanprojects](https://discord.gg/Bdtjh4en4K)
 
-###### Feito com ❤ por [Matheus](https://twitter.com/naflyyyy).
+###### Feito com ❤ por [ArcanProjects](https://twitter.com/naflyyyy).
 
 
