@@ -1,4 +1,4 @@
-![](https://github.com/ArcanProjects/.github/blob/main/foto.png)
+![](https://media.discordapp.net/attachments/1147184121337090048/1395328939836047420/Design_sem_nome.png?ex=687a0cd7&is=6878bb57&hm=8426e0a361586235fc15d0d3ce1ea4f686eefd74d4c4df8783e43ce573433fdc&=&format=webp&quality=lossless&width=1860&height=465)
 
 ## `1º` **|** 🔥 ArcanProjects
 _**Faça seu sonho se tornar realidade com a Arcan!**_
